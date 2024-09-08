@@ -1,5 +1,5 @@
 # CurrencyExchangeManagement
-## verview
+## Overview
 
 The Currency Exchange API allows users to convert an amount from one currency to another using real-time exchange rates. It interacts with an external currency exchange API and utilizes Redis caching for efficient performance, along with MySQL for persisting historical exchange rates.
 
